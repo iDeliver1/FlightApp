@@ -1,0 +1,11 @@
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\bin\Debug\FlightApp.exe.config
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\bin\Debug\FlightApp.exe
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\bin\Debug\FlightApp.pdb
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\obj\Debug\FlightApp.Booking.resources
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\obj\Debug\FlightApp.Login.resources
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\obj\Debug\FlightApp.Properties.Resources.resources
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\obj\Debug\FlightApp.csproj.GenerateResource.Cache
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\obj\Debug\FlightApp.csproj.CoreCompileInputs.cache
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\obj\Debug\FlightApp.exe
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\obj\Debug\FlightApp.pdb
+C:\Users\Ideliver\Source\Repos\FlightAppWin\FlightApp\FlightApp\obj\Debug\FlightApp.csprojResolveAssemblyReference.cache
